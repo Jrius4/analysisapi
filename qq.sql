@@ -1,0 +1,1 @@
+DECLARE @list varchar(23) = '1,2,3,4'
