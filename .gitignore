@@ -1,3 +1,5 @@
 env
 __pycache__
 .DS_Store
+.vscode
+sqltools_20210319032822_9988.log
